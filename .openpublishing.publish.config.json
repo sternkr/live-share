@@ -31,10 +31,10 @@
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {}
+        "branch": "master",
+        "branch_mapping": {},
+        "path_to_root": "_themes",
+        "url": "https://github.com/Microsoft/templates.docs.msft"
     }
   ],
   "branch_target_mapping": {},
